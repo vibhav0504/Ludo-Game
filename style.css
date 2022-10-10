@@ -1,0 +1,55 @@
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: skyblue;
+  border: 5px solid salmon
+  
+  ;
+  height: 550px;
+}
+.heading{
+  font-size: 50px;
+  color: yellow;
+padding-top: 20px;
+  }
+.box{
+  display: flex;
+  
+ 
+}
+.box1{
+  font-size: 25px;
+  color: blue;
+  font-size: 30px;
+  margin: auto;
+  text-align: center;
+}
+.box2{
+  font-size: 25px;
+  color: blue;
+  font-size: 30px;
+  margin: auto;
+  text-align: center;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+.btn{
+  margin: 30px;
+  padding: 10px;
+  font-size: 20px;
+  color: grey;
+  background-color: whitesmoke;
+  border: 2 px solid palevioletred;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+a{
+  text-decoration: none;
+}
+.btn:hover{
+  background-color: black;
+}
